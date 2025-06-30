@@ -1,0 +1,6 @@
+name: NoFakeRiptide
+version: 1.0
+main: com.deedeemcx.nofakeriptide.NoFakeRiptide
+api-version: 1.20
+author: DeeDeeMCX
+description: Prevents Riptide use when server-side weather is clear.
