@@ -8,5 +8,7 @@ EssentialsX lets players set their own personal weather using /pweather. However
 Support (if you need it): https://discord.gg/cwBkwMyspx
 
 Also check out my YT: https://www.youtube.com/@DeeDeeMCX
+
 ...And my minecraft server: Play.SkySurge.World
+
 ...And my store? store.deedeemcx.com
